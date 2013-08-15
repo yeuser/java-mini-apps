@@ -1,0 +1,22 @@
+About Project.
+	Name:
+		Offline File-System Viewer
+	Description:
+		Save/Share list of your PC's file with this little program.
+		Just Open Directory to extract its list of files, then save this list as an XML file. You can open this saved file everywhere or share it with your friends.
+		This Program helps if you want to share your files with others or log your file-system, and can't use Remoting solutions. (e.g. no Internet Connection)
+	Features:
+		- Simple UI!
+		- Save File in XML
+		- Saving System Extracted Icons of files & folders
+
+Requirements:
+	This Program is written in JAVA & uses following Libraries:
+	- Apache Commons Codec (Last Commit: tested with version 1.8) 	http://commons.apache.org/proper/commons-codec/
+	- Apache Commons Lang  (Last Commit: tested with version 3.1) 	http://commons.apache.org/proper/commons-lang/
+
+Ant Build:
+	- use: ant-jar-maker.xml
+
+Eclipse:
+	This Project was written using Eclipse IDE.
